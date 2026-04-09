@@ -27,13 +27,11 @@ I am a passionate Full-Stack Developer and UI/UX Designer dedicated to building 
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifsofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Asif's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=asifsofficial&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifsofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=asifsofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asifsofficial&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifsofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asifsofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -46,7 +44,5 @@ I am a passionate Full-Stack Developer and UI/UX Designer dedicated to building 
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=asifsofficial&icon=0&color=0" alt="Visitor Count" />
-  </a>
+  [![Visitor Count](https://visitcount.itsvg.in/api?id=asifsofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
